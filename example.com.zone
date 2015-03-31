@@ -1,0 +1,7 @@
+Zexample.com:ns1.example.com.:postmaster.example.com.:2015020301:3600:3600:604800:3600:600
+&example.com::ns1.example.com.
+&example.com::ns2.example.com.
+@example.com::smtp.example.com.:10
++example.com:127.0.0.1
++www.example.com:127.0.0.1
+Csmtp.example.com:example.com
